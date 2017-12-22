@@ -1,0 +1,6 @@
+C:\Users\djoni\source\repos\CardGame\MenuLibrary\bin\Debug\MenuLibrary.dll
+C:\Users\djoni\source\repos\CardGame\MenuLibrary\bin\Debug\MenuLibrary.pdb
+C:\Users\djoni\source\repos\CardGame\MenuLibrary\obj\Debug\MenuLibrary.csprojResolveAssemblyReference.cache
+C:\Users\djoni\source\repos\CardGame\MenuLibrary\obj\Debug\MenuLibrary.csproj.CoreCompileInputs.cache
+C:\Users\djoni\source\repos\CardGame\MenuLibrary\obj\Debug\MenuLibrary.dll
+C:\Users\djoni\source\repos\CardGame\MenuLibrary\obj\Debug\MenuLibrary.pdb

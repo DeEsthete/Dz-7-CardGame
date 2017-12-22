@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardGame", "CardGame\CardGame.csproj", "{48EF006F-064D-41F3-AC0B-32F887822900}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{5E33446C-B451-46D9-BF5B-FA11DF4BE302}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuLibrary", "MenuLibrary\MenuLibrary.csproj", "{BC8C1D76-E9E8-4CF2-A881-4FDEC9324D26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48EF006F-064D-41F3-AC0B-32F887822900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48EF006F-064D-41F3-AC0B-32F887822900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48EF006F-064D-41F3-AC0B-32F887822900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48EF006F-064D-41F3-AC0B-32F887822900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E33446C-B451-46D9-BF5B-FA11DF4BE302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E33446C-B451-46D9-BF5B-FA11DF4BE302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E33446C-B451-46D9-BF5B-FA11DF4BE302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E33446C-B451-46D9-BF5B-FA11DF4BE302}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC8C1D76-E9E8-4CF2-A881-4FDEC9324D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC8C1D76-E9E8-4CF2-A881-4FDEC9324D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC8C1D76-E9E8-4CF2-A881-4FDEC9324D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC8C1D76-E9E8-4CF2-A881-4FDEC9324D26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B43C48C-5C20-461A-8CB5-BD487241654F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\djoni\source\repos\CardGame\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\djoni\source\repos\CardGame\CardGame\bin\Debug\CardGame.exe
+C:\Users\djoni\source\repos\CardGame\CardGame\bin\Debug\CardGame.pdb
+C:\Users\djoni\source\repos\CardGame\CardGame\bin\Debug\ClassLibrary.dll
+C:\Users\djoni\source\repos\CardGame\CardGame\bin\Debug\MenuLibrary.dll
+C:\Users\djoni\source\repos\CardGame\CardGame\bin\Debug\ClassLibrary.pdb
+C:\Users\djoni\source\repos\CardGame\CardGame\bin\Debug\MenuLibrary.pdb
+C:\Users\djoni\source\repos\CardGame\CardGame\obj\Debug\CardGame.csprojResolveAssemblyReference.cache
+C:\Users\djoni\source\repos\CardGame\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\djoni\source\repos\CardGame\CardGame\obj\Debug\CardGame.exe
+C:\Users\djoni\source\repos\CardGame\CardGame\obj\Debug\CardGame.pdb

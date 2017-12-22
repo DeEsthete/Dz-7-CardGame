@@ -1,0 +1,6 @@
+C:\Users\djoni\source\repos\CardGame\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\djoni\source\repos\CardGame\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\djoni\source\repos\CardGame\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\djoni\source\repos\CardGame\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\djoni\source\repos\CardGame\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\djoni\source\repos\CardGame\ClassLibrary\obj\Debug\ClassLibrary.pdb
